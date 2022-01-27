@@ -42,11 +42,11 @@ testem.log
 Thumbs.db
 
 #Desarrollo
-favicon.ico
-.vscode
-.browserslistrc
-.editorconfig
-karma.conf.j
-tsconfig.json
-tsconfig.app.json
-tsconfig.spec.json
+*favicon.ico
+/.vscode
+*.browserslistrc
+*.editorconfig
+*karma.conf.j
+*tsconfig.json
+*tsconfig.app.json
+*tsconfig.spec.json
